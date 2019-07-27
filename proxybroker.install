@@ -1,0 +1,10 @@
+pip3 install -U git+https://github.com/constverum/ProxyBroker.git
+     apt install python3-setuptools
+       pip3 install -U git+https://github.com/constverum/ProxyBroker.git
+          pro
+	    30  history 
+	       pip3 install aiohttp
+	           pip3 install  aiodns
+		       pip3 install proxybroker
+		       pip3 install -U git+https://github.com/constverum/ProxyBroker.git
+
