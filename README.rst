@@ -1,3 +1,5 @@
+proxybroker find --types  SOCKS4 SOCKS5 --outfile ./proxies.txt
+
 ProxyBroker
 ===========
 
